@@ -1,6 +1,6 @@
 # arrayForth
 
-A powerful machine client that connects a PC to a Volatco board.
+A powerful machine client that connects a PC to a Volatco board. This is the version '3' architecture.
 
 ## Running the aF3 system in Debian Linux
 
